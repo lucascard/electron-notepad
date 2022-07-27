@@ -181,7 +181,7 @@ const templateMenu = [
                 label: 'Cortar',
                 role: 'cut',
             },
-            {
+            {     
                 label: 'Colar',
                 role: 'paste',
             }, 
